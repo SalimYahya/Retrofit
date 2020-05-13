@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mtrl_margin_or_padding_5dp">5dp</dimen>
+    <dimen name="mtrl_margin_or_padding_10dp">10dp</dimen>
+    <dimen name="mtrl_margin_or_padding_15dp">15dp</dimen>
+    <dimen name="mtrl_margin_or_padding_20dp">20dp</dimen>
+    <dimen name="mtrl_margin_or_padding_25dp">25dp</dimen>
+    <dimen name="mtrl_margin_or_padding_30dp">30dp</dimen>
+</resources>

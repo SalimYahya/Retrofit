@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0A305C</color>
+    <color name="colorAccent">#AD1457</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#B00020</color>
+
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onSecondary">#000000</color>
+
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+    <color name="onError">#FFFFFF</color>
+
+    <color name="colorLightGray">#F1F1F1</color>
+    <color name="colorLightPrimary">#6690BF</color>
+    <color name="colorDarkGray">#E1E1E1</color>
+
+    <color name="colorWhite">@color/colorBackground</color>
+    <color name="sideBarBackGroundColor">#DAE8F8</color>
+    <color name="productCardHighlight">#F5E6F3</color>
+</resources>
